@@ -5,10 +5,11 @@ How It Works
 
 -- Camera detects face
 
--- Python script sends command to ESP32
+-- Js script sends command to ESP32
 
 -- ESP32 toggles relay
 
 -- Switch/appliance turns ON/OFF
+
 
 -- Usage
